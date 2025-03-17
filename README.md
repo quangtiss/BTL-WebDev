@@ -52,8 +52,15 @@ The following are the Programming Languages and Frameworks that my team uses dur
   - [![JavaScript][js.logo]][JavaScript-url]
 
 - **Backend:**
+
   - [![PHP][php.logo]][PHP-url]
   - [![MySQL][mysql.logo]][MySQL-url]
+
+- **Most Used Languages:**
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Conganhluan&exclude_repo=The-Ocean-s-Mystery,Dormitory_Management,Investigation-Game,Message-To-Mail,TOEIC-Notifier&layout=pie)
+
+<p align="right">[<a href="#readme-top">Back to Top 🔝</a>]</p>
 
 <!-- GETTING STARTED -->
 
@@ -83,7 +90,7 @@ _To run the demo version of this application, you need to follow these steps:_
 2. Clone the Repository and put it in C:\xampp\htdocs:
    ```sh
    cd C:\xampp\htdocs
-   git clone https://github.com/Conganhluan/Lap_trinh_web.git
+   git clone https://github.com/quangtiss/BTL-WebDev.git
    ```
 3. Click 'Start' for Apache and MySQL in the XAMPP interface.
 4. Go to the URL http://localhost/phpmyadmin/ to add a database.
@@ -105,6 +112,8 @@ _To run the demo version of this application, you need to follow these steps:_
 <p align="right">[<a href="#readme-top">Back to Top 🔝</a>]</p>
 
 <!-- CONTACT -->
+
+## Contact 📧
 
 <p align="right">[<a href="#readme-top">Back to Top 🔝</a>]</p>
 
